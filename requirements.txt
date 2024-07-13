@@ -1,0 +1,4 @@
+celery
+Flask
+Flask-Mail
+python-dotenv
