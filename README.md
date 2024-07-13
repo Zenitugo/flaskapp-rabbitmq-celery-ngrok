@@ -86,6 +86,16 @@ sudo systemctl restart nginx  # To restart the server
 2. Get your authentication token
 3. Configure your terminal with the token
 
+## STEP 10: RUN YOUR SERVICES
+**First daemonize your Celery**
+
+```
+
+**Deamonise your python app service**
+```
+
+```
+
 
 
 
